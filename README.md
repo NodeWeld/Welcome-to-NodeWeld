@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="logo.png" alt="NodeWeld Technologies" width="300" />
-
 # NodeWeld Technologies
 
 **Forging tools for the next web.**
