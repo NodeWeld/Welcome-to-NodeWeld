@@ -1,40 +1,85 @@
-<img width="1024" height="1024" alt="4209031d-b3c7-42d8-93d8-be0499489db3" src="https://github.com/user-attachments/assets/f9a0b35f-79ac-416f-819b-7fbf708d3253" />
-About NodeWeld
+<div align="center">
 
-NodeWeld Technologies is a development studio focused on building powerful tools, bots, and applications for Web3 communities and online platforms.
+<!-- Banner / Logo -->
+<img src="https://www.nodeweld.com/logo.png" alt="NodeWeld Technologies" width="120" />
 
-Our mission is to help creators, startups, and communities turn ideas into working products through fast, reliable development and clean technical infrastructure.
+# NodeWeld Technologies
 
-What We Build
+**Forging tools for the next web.**
 
-Custom Discord & Telegram Bots
+[![Website](https://img.shields.io/badge/🌐_Website-nodeweld.com-0f172a?style=for-the-badge)](https://www.nodeweld.com)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nodeweld)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nodeweld)
 
-Web3 integrations and automation tools
+</div>
 
-Community management systems
+---
 
-Interactive games and leaderboard systems
+## 🔩 Who We Are
 
-Launch tools for Web3 projects
+**NodeWeld Technologies** is a development studio specializing in powerful tools, bots, and applications for Web3 communities and online platforms.
 
-Custom APIs and backend services
+We bridge the gap between idea and execution — helping creators, startups, and communities ship real, working products with clean technical infrastructure and fast turnaround.
 
-Our Approach
+Whether you're launching a Web3 project from scratch or need custom automation to scale your community, NodeWeld has the tools and the team to make it happen.
 
-At NodeWeld we focus on:
+---
 
-Building practical tools that communities actually use
+## ⚙️ What We Build
 
-Shipping products quickly and efficiently
+| Category | Description |
+|---|---|
+| 🤖 **Discord & Telegram Bots** | Custom bots for moderation, engagement, automation, and community workflows |
+| 🔗 **Web3 Integrations** | Smart contract interactions, wallet gating, on-chain data, and automation pipelines |
+| 🏆 **Games & Leaderboards** | Interactive community games, point systems, and competitive leaderboards |
+| 🚀 **Web3 Launch Tools** | Allowlist managers, minting utilities, and launch-day infrastructure |
+| 🛠️ **Community Management Systems** | Role automation, ticketing, onboarding flows, and moderation tooling |
+| 🔌 **Custom APIs & Backend Services** | Scalable backend architecture built to grow with your project |
 
-Creating scalable systems that grow with projects
+---
 
-Collaboration
+## 🧠 Our Approach
 
-We work with Web3 teams, creators, and communities looking to build custom technology and automation.
+We don't build for the sake of building. Every tool we ship is:
 
-If you're building something interesting, we're always open to new collaborations.
+- **Practical** — Solving real problems that communities and teams actually face
+- **Fast** — From scoping to deployment without the back-and-forth bloat
+- **Scalable** — Architected to grow alongside your project from launch day to long-term
+- **Clean** — Readable, maintainable code with infrastructure you can trust
 
-🌐 https://www.nodeweld.com
+We've worked across the full lifecycle of Web3 projects — from early-stage ideation to post-launch growth tooling.
 
+---
 
+## 🤝 Collaboration
+
+We work with:
+
+- **Web3 teams** building infrastructure, protocols, or community-first products
+- **Creators & influencers** who need custom bots and automation
+- **Communities** that have outgrown off-the-shelf tools and need something tailored
+
+If you're building something interesting, we're open to hearing about it.
+
+📬 **Reach out:** [devteam@nodweld.com](mailto:devteam@nodweld.com) or visit [nodeweld.com](https://www.nodeweld.com)
+
+---
+
+## 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+<div align="center">
+
+*© NodeWeld Technologies — Building the infrastructure that communities run on.*
+
+</div>
