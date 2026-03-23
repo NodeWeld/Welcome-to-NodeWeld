@@ -1,4 +1,4 @@
-
+<img width="1024" height="1024" alt="4209031d-b3c7-42d8-93d8-be0499489db3" src="https://github.com/user-attachments/assets/f9a0b35f-79ac-416f-819b-7fbf708d3253" />
 About NodeWeld
 
 NodeWeld Technologies is a development studio focused on building powerful tools, bots, and applications for Web3 communities and online platforms.
@@ -36,3 +36,5 @@ We work with Web3 teams, creators, and communities looking to build custom techn
 If you're building something interesting, we're always open to new collaborations.
 
 🌐 https://www.nodeweld.com
+
+
