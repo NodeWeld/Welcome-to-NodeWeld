@@ -100,7 +100,6 @@ If you're building something interesting, we're open to hearing about it.
 ---
 
 <div align="center">
-
-*© NodeWeld Technologies — Building the infrastructure that communities run on.*
+© NodeWeld Technologies — Building the infrastructure that communities run on.
 
 </div>
